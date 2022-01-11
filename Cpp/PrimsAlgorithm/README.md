@@ -1,6 +1,6 @@
-Istinye University Data Structures and Algorithms Course Homework
-Instructor: Dr. Ali Çivril
-Date Added: 01.11.2022
+# Istinye University Data Structures and Algorithms Course Homework
+# Instructor: Dr. Ali Çivril
+# Date Added: 01.11.2022
 
 
 This homework consists of
