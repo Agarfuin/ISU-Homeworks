@@ -1,7 +1,7 @@
 # Some Important Informations
 
-It is better to state that the implementations of Tree class is not a work of mine.
+It is better to state that the implementations of BST, KeyedItem, TreeNode, and TreeException classes are not works of mine.
 
-What I have done in this work is that implementations of AVL Tree rotations and automizing it.
+What I have done here is that the implementations of AVL Tree insertion along with rotations and balance factor.
 
 
